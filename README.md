@@ -20,9 +20,9 @@
 ![inc16](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/adf94022-4e58-4f6b-833e-68f75412c86c)
 # Memory
 ![memory](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/236a6f47-0b75-4707-bad5-2a4f266e1cda)
-#Multi
+# Multi
 ![mult](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/d7370b78-08ac-4fd4-96e3-18466859e332)
-#Mux.hdl
+# Mux.hdl
 ![mux hdl](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/7d9082d3-cf74-4ebe-bfb0-77a5fa4e7b97)
 # not.hdl
 ![not hdl](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/a0542dd2-8c69-43ce-9855-8115d86a11fa)
@@ -30,7 +30,7 @@
 ![or hdl](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/4ca5d4f5-bd59-4ad6-b076-9dd96bb1ef43)
 # pc
 ![pc](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/f5bc35a1-490b-4cd6-bf4d-472fdbf545a6)
-#Ram4k
+# Ram4k
 ![ram4k](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/92e4a38e-47fa-447c-94e8-5437f6548d13)
 # Ram8
 ![ram8](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/74a80001-fe2e-42ad-a3c1-c4c503ecf03a)
@@ -48,6 +48,6 @@
 ![Screenshot (150)](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/09fb54fd-3715-4eb9-97d9-c0b73ca2998d)
 # Xor.hdl
 ![Xor hdl](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/bf5d40f0-d22d-4a27-aca4-0102f407d4ec)
-Pong.CPU
+# Pong.CPU
 ![Screenshot (156)](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/675d5e66-e78b-4e2d-8e77-fa59b3e2a396)
 
