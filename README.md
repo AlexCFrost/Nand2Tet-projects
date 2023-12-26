@@ -48,3 +48,6 @@
 ![Screenshot (150)](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/09fb54fd-3715-4eb9-97d9-c0b73ca2998d)
 # Xor.hdl
 ![Xor hdl](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/bf5d40f0-d22d-4a27-aca4-0102f407d4ec)
+Pong.CPU
+![Screenshot (156)](https://github.com/AlexCFrost/Nand2Tet-projects/assets/139672610/675d5e66-e78b-4e2d-8e77-fa59b3e2a396)
+
